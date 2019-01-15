@@ -13,8 +13,8 @@ const T = new Twit({
   consumer_secret: api_secret,
   access_token: access_token,
   access_token_secret: access_secret,
-  timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
-  strictSSL: true // optional - requires SSL certificates to be valid.
+  timeout_ms: 60 * 1000, // optional
+  strictSSL: true // optional
 });
 
 exports.handler = () => {
@@ -28,6 +28,6 @@ exports.handler = () => {
       console.log(quote);
       return T.post("statuses/update", { status: quote });
     })
-    .then(res => console.log(`posted quote`))
+    .then(res => console.log(`posted!`))
     .catch(console.log);
 };
