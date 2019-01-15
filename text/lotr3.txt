@@ -469,14 +469,14 @@ glance upon Pippin. 'What say you to that, Halfling?'
 
 'Thirteen, thirteen days,' faltered Pippin. 'Yes, I think that would be 
 so. Yes, I stood beside him, as he blew the horn. But no help came. Only 
-more ores.' 
+more Orcs.' 
 
 'So,' said Denethor, looking keenly at Pippin's face. 'You were there? 
 
 Tell me more! Why did no help come? And how did you escape, and yet he 
 did 
 
-not, so mighty a man as he was, and only ores to withstand him?' 
+not, so mighty a man as he was, and only Orcs to withstand him?' 
 
 Pippin flushed and forgot his fear. 'The mightiest man may be slain by 
 one arrow,' he said; 'and Boromir was pierced by many. When last I saw him 
@@ -954,7 +954,7 @@ none-save some young lads that will not depart, and may find some task to
 do: my own son is one of them.' 
 
 They fell silent for a while. Pippin gazed anxiously eastward, as if at 
-any moment he might see thousands of ores pouring over the fields. 'What can 
+any moment he might see thousands of Orcs pouring over the fields. 'What can 
 I see there?' he asked, pointing down to the middle of the great curve of 
 the Anduin. 'Is that another city, or what is it?' 
 
@@ -1046,7 +1046,7 @@ we shall stand?'
 
 Pippin did not answer. He looked at the great walls, and the towers and 
 brave banners, and the sun in the high sky, and then at the gathering gloom 
-in the East; and he thought of the long fingers of that Shadow: of the ores 
+in the East; and he thought of the long fingers of that Shadow: of the Orcs 
 in the woods and the mountains, the treason of Isengard, the birds of evil 
 eye, and the Black Riders even in the lanes of the Shire - and of the winged 
 terror, the Nazgyl. He shuddered, and hope seemed to wither. And even at 
@@ -2852,7 +2852,7 @@ from the North.
 
 'A week!' said Hirgon. 'If it must be so, it must. But you are like to 
 find only ruined walls in seven days from now, unless other help 
-unlooked-for comes. Still, you may at the least disturb the Ores and Swarthy 
+unlooked-for comes. Still, you may at the least disturb the Orcs and Swarthy 
 Men from their feasting in the White Tower.' 
 
 
@@ -3920,7 +3920,7 @@ Now the main retreat was scarcely two furlongs distant. Out of the
 gloom behind a small company of horsemen galloped, all that was left of the 
 rearguard. Once again they turned at bay, facing the oncoming lines of fire. 
 Then suddenly there was a tumult of fierce cries. Horsemen of the enemy 
-swept up. The lines of fire became flowing torrents, file upon file of Ores 
+swept up. The lines of fire became flowing torrents, file upon file of Orcs 
 bearing flames, and wild Southron men with red banners, shouting with harsh 
 tongues, surging up, overtaking the retreat. And with a piercing cry out of 
 the dim sky fell the winged shadows, the Nazgyl stooping to the kill. 
@@ -3953,7 +3953,7 @@ to challenge the white fire of his foe. The hosts of Morgul intent on their
 prey, taken at unawares in wild career, broke, scattering like sparks in a 
 gale. The out-companies with a great cheer turned and smote their pursuers. 
 Hunters became the hunted. The retreat became an onslaught. The field was 
-strewn with stricken ores and men, and a reek arose of torches cast away, 
+strewn with stricken Orcs and men, and a reek arose of torches cast away, 
 sputtering out in swirling smoke. The cavalry rode on. 
 
 But Denethor did not permit them to go far. Though the enemy was 
@@ -4012,7 +4012,7 @@ There is no news of the Rohirrim,' he said. ’Rohan will not come now.
 
 Or if they come, it will not avail us. The new host that we had tidings of 
 has come first, from over the River by way of Andros, it is said. They are 
-strong: battalions of Ores of the Eye, and countless companies of Men of a 
+strong: battalions of Orcs of the Eye, and countless companies of Men of a 
 new sort that we have not met before. Not tall, but broad and grim, bearded 
 like dwarves, wielding great axes. Out of some savage land in the wide East 
 they come, we deem. They hold the northward road; and many have passed 
@@ -4030,7 +4030,7 @@ companies, and as far as eyes could strain in the mirk there sprouted, like
 a foul fungus-growth, all about the beleaguered city great camps of tents, 
 black or sombre red. 
 
-Busy as ants hurrying ores were digging, digging lines of deep trenches 
+Busy as ants hurrying Orcs were digging, digging lines of deep trenches 
 in a huge ring, just out of bowshot from the walls; and as the trenches were 
 
 
@@ -4351,7 +4351,7 @@ feet in length, swinging on mighty chains. Long had it been forging in the
 dark smithies of Mordor, and its hideous head, founded of black steel, was 
 shaped in the likeness of a ravening wolf; on it spells of ruin lay. Grond 
 they named it, in memory of the Hammer of the Underworld of old. Great 
-beasts drew it, Ores surrounded it, and behind walked mountain -trolls to 
+beasts drew it, Orcs surrounded it, and behind walked mountain -trolls to 
 wield it. 
 
 But about the Gate resistance still was stout, and there the knights of 
@@ -4362,7 +4362,7 @@ bodies of the slain; yet still driven as by a madness more and more came up.
 
 Grond crawled on. Upon its housing no fire would catch; and though now 
 and again some great beast that hauled it would go mad and spread stamping 
-ruin among the ores innumerable that guarded it, their bodies were cast 
+ruin among the Orcs innumerable that guarded it, their bodies were cast 
 aside from its path and others took their place. 
 
 Grond crawled on. The drums rolled wildly. Over the hills of slain a 
@@ -4509,7 +4509,7 @@ You hear the Woses, the Wild Men of the Woods: thus they talk together from
 afar. They still haunt Dr®adan Forest, it is said. Remnants of an older time 
 they be, living few and secretly, wild and wary as the beasts. They go not 
 to war with Gondor or the Mark; but now they are troubled by the darkness 
-and the coming of the ores: they fear lest the Dark Years be returning, as 
+and the coming of the Orcs: they fear lest the Dark Years be returning, as 
 seems likely enough. Let us be thankful that they are not hunting us: for 
 they use poisoned arrows, it is said, and they are woodcrafty beyond 
 compare. But they have offered their services to Thjoden. Even now one of 
@@ -4695,7 +4695,7 @@ he was laughing.
 'Good tidings!' cried Jomer. 'Even in this gloom hope gleams again. Our 
 Enemy's devices oft serve us in his despite. The accursed darkness itself 
 has been a cloak to us. And now, lusting to destroy Gondor and throw it down 
-stone from stone, his ores have taken away my greatest fear. The out-wall 
+stone from stone, his Orcs have taken away my greatest fear. The out-wall 
 could have been held long against us. Now we can sweep through - if once we 
 win so far.' 
 
@@ -4822,7 +4822,7 @@ pounded to death by galloping hoofs!'
 
 It was no more than a league to where the out-walls had stood. They 
 soon reached them; too soon for Merry. Wild cries broke out, and there was 
-some clash of arms, but it was brief. The ores busy about the walls were few 
+some clash of arms, but it was brief. The Orcs busy about the walls were few 
 and amazed, and they were quickly slain or driven off. Before the ruin of 
 the north-gate in the Rammas the king halted again. The first jored drew up 
 behind him and about him on either side. Dernhelm kept close to the king, 
@@ -4933,7 +4933,7 @@ men
 
 were among the siege-engines, hewing, slaying, driving their foes into the 
 fire-pits. Well nigh all the northern half of the Pelennor was overrun, and 
-there camps were blazing, ores were flying towards the River like herds 
+there camps were blazing, Orcs were flying towards the River like herds 
 before the hunters; and the Rohirrim went hither and thither at their will. 
 
 But they had not yet overthrown the siege, nor won the Gate. Many foes stood 
@@ -5389,7 +5389,7 @@ with their foes; and a black dread fell on them, knowing that the tides of
 fate had turned against them and their doom was at hand. 
 
 East rode the knights of Dol Amroth driving the enemy before them: 
-troll-men and Variags and ores that hated the sunlight. South strode Jomer 
+troll-men and Variags and Orcs that hated the sunlight. South strode Jomer 
 and men fled before his face, and they were caught between the hammer and 
 the anvil. For now men leaped from the ships to the quays of the Harlond and 
 swept north like a storm. There came Legolas, and Gimli wielding his axe, 
@@ -7212,7 +7212,7 @@ Chapter 10. The Black Gate Opens
 
 
 Two days later the army of the West was all assembled on the Pelennor. 
-The host of Ores and Easterlings had turned back out of Anurien, but harried 
+The host of Orcs and Easterlings had turned back out of Anurien, but harried 
 and scattered by the Rohirrim they had broken and fled with little fighting 
 towards Cair Andros; and with that threat destroyed and new strength 
 arriving out of the South the City was as well manned as might be. Scouts 
@@ -7290,7 +7290,7 @@ ring of trees, and they blew a great fanfare, and the heralds cried aloud:
 take back.' The hideous ore-head that was set upon the carven figure was 
 cast down and broken in pieces, and the old king's head was raised and set 
 in its place once more, still crowned with white and golden flowers: and men 
-laboured to wash and pare away all the foul scrawls that ores had put upon 
+laboured to wash and pare away all the foul scrawls that Orcs had put upon 
 the stone. 
 
 Now in their debate some had counselled that Minas Morgul should first 
@@ -7316,7 +7316,7 @@ Ithilien and would lie hid in the woods and slopes about the meeting of the
 ways. But Gandalf and Aragorn rode with the vanguard to the entrance of 
 Morgul Vale and looked on the evil city. 
 
-It was dark and lifeless; for the Ores and lesser creatures of Mordor 
+It was dark and lifeless; for the Orcs and lesser creatures of Mordor 
 that had dwelt there had been destroyed in battle, and the Nazgyl were 
 abroad. Yet the air of the valley was heavy with fear and enmity. Then they 
 broke the evil bridge and set red flames in the noisome fields and departed. 
@@ -7349,7 +7349,7 @@ that they went north foreboding of evil grew heavier on them. It was near
 
 
 the end of the second day of their march from the Cross-roads that they 
-first met any offer of battle. For a strong force of Ores and Easterlings 
+first met any offer of battle. For a strong force of Orcs and Easterlings 
 attempted to take their leading companies in an ambush; and that was in the 
 very place where Faramir had waylaid the men of Flarad, and the road went in 
 a deep cutting through an out-thrust of the eastward hills. But the Captains 
@@ -7451,7 +7451,7 @@ still the Enemy made no sign.
 
 No choice was left them but to play their part to its end. Therefore 
 Aragorn now set the host in such array as could best be contrived; and they 
-were drawn up on two great hills of blasted stone and earth that ores had 
+were drawn up on two great hills of blasted stone and earth that Orcs had 
 piled in years of labour. Before them towards Mordor lay like a moat a great 
 mire of reeking mud and foul-smelling pools. When all was ordered, the 
 Captains rode forth towards the Black Gate with a great guard of horsemen 
@@ -7646,7 +7646,7 @@ The Captains mounted again and rode back, and from the host of Mordor
 there went up a jeering yell. Dust rose smothering the air, as from nearby 
 there marched up an army of Easterlings that had waited for the signal in 
 the shadows of Ered Lithui beyond the further Tower. Down from the hills on 
-either side of the Morannon poured Ores innumerable. The men of the West 
+either side of the Morannon poured Orcs innumerable. The men of the West 
 were trapped, and soon, all about the grey mounds where they stood, forces 
 ten times and more than ten times their match would ring them in a sea of 
 enemies. Sauron had taken the proffered bait in jaws of steel. 
@@ -7695,7 +7695,7 @@ Merry. Well, I'll smite some of this beastly brood before the end. I wish I
 could see cool sunlight and green grass again!' 
 
 Then even as he thought these things the first assault crashed into 
-them. The ores hindered by the mires that lay before the hills halted and 
+them. The Orcs hindered by the mires that lay before the hills halted and 
 poured their arrows into the defending ranks. But through them there came 
 striding up, roaring like beasts, a great company of hill-trolls out of 
 Gorgoroth. Taller and broader than Men they were, and they were clad only in 
@@ -7742,13 +7742,13 @@ Chapter 1 . The Tower of Cirith Ungol
 
 Sam roused himself painfully from the ground. For a moment he wondered 
 where he was, and then all the misery and despair returned to him. He was in 
-the deep dark outside the under -gate of the ores' stronghold; its brazen 
+the deep dark outside the under -gate of the Orcs' stronghold; its brazen 
 doors were shut. He must have fallen stunned when he hurled himself against 
 them; but how long he had lain there he did not know. Then he had been on 
 fire, desperate and furious; now he was shivering and cold. He crept to the 
 doors and pressed his ears against them. 
 
-Far within he could hear faintly the voices of ores clamouring, but 
+Far within he could hear faintly the voices of Orcs clamouring, but 
 soon they stopped or passed out of hearing, and all was still. His head 
 ached and his eyes saw phantom lights in the darkness, but he struggled to 
 steady himself and think. It was clear at any rate that he had no hope of 
@@ -7799,7 +7799,7 @@ again beneath with a sullen glow of red.
 
 Sam looked up towards the ore-tower, and suddenly from its narrow 
 windows lights stared out like small red eyes. He wondered if they were some 
-signal. His fear of the ores, forgotten for a while in his wrath and 
+signal. His fear of the Orcs, forgotten for a while in his wrath and 
 desperation, now returned. As far as he could see, there was only one 
 possible course for him to take: he must go on and try to find the main 
 entrance to the dreadful tower; but his knees felt weak, and he found that 
@@ -7831,7 +7831,7 @@ path were pale, as if seen through a mist, but still at a distance he heard
 the bubbling of Shelob in her misery: and harsh and clear, and very close it 
 seemed, he heard cries and the clash of metal. He sprang to his feet, and 
 pressed himself against the wall beside the road. He was glad of the Ring, 
-for here was yet another company of ores on the march. Or so at first he 
+for here was yet another company of Orcs on the march. Or so at first he 
 thought. Then suddenly he realized that it was not so, his hearing had 
 deceived him: the orc-cries came from the tower, whose topmost horn was 
 now 
@@ -7928,7 +7928,7 @@ Only too clearly Sam saw how hopeless it would be for him to creep down
 under those many-eyed walls and pass the watchful gate. And even if he did 
 so, he could not go far on the guarded road beyond: not even the black 
 shadows, lying deep where the red glow could not reach, would shield him 
-long from the night-eyed ores. But desperate as that road might be, his task 
+long from the night-eyed Orcs. But desperate as that road might be, his task 
 was now far worse: not to avoid the gate and escape, but to enter it, alone. 
 
 His thought turned to the Ring, but there was no comfort there, only 
@@ -7983,16 +7983,16 @@ with his unaided ears. At the moment the noise seemed to be coming from the
 court behind the outer wall. 
 
 Sam was about half way down the path when out of the dark gateway into 
-the red glow there came two ores running. They did not turn towards him. 
+the red glow there came two Orcs running. They did not turn towards him. 
 They were making for the main road; but even as they ran they stumbled and 
 fell to the ground and lay still. Sam had seen no arrows, but he guessed 
-that the ores had been shot down by others on the battlements or hidden in 
+that the Orcs had been shot down by others on the battlements or hidden in 
 the shadow of the gate. He went on, hugging the wall on his left. One look 
 upward had shown him that there was no hope of climbing it. The stone-work 
 rose thirty feet, without a crack or ledge, to overhanging courses like 
 inverted steps. The gate was the only way. 
 
-He crept on; and as he went he wondered how many ores lived in the 
+He crept on; and as he went he wondered how many Orcs lived in the 
 Tower with Shagrat, and how many Gorbag had, and what they were 
 quarrelling 
 
@@ -8173,7 +8173,7 @@ came.
 
 At first Sam did not listen; he took a pace out of the eastward door 
 and looked about. At once he saw that up here the fighting had been 
-fiercest. All the court was choked with dead ores or their severed and 
+fiercest. All the court was choked with dead Orcs or their severed and 
 scattered heads and limbs. The place stank of death. A snarl followed by a 
 blow and a cry sent him darting back into hiding. An ore-voice rose in 
 anger, and he knew it again at once, harsh, brutal, cold. It was Shagrat 
@@ -8451,12 +8451,12 @@ Frodo sighed and sat up. 'Where are we? How did I get here?’ he asked.
 
 'There's no time for tales till we get somewhere else, Mr. Frodo,' said 
 Sam. 'But you're in the top of that tower you and me saw from away down by 
-the tunnel before the ores got you. How long ago that was I don't know. More 
+the tunnel before the Orcs got you. How long ago that was I don't know. More 
 than a day, I guess.' 
 
 'Only that?' said Frodo. 'It seems weeks. You must tell me all about 
 it, if we get a chance. Something hit me, didn't it? And I fell into 
-darkness and foul dreams, and woke and found that waking was worse. Ores 
+darkness and foul dreams, and woke and found that waking was worse. Orcs 
 were all round me. I think they had just been pouring some horrible burning 
 drink down my throat. My head grew clear, but I was aching and weary. They 
 stripped me of everything; and then two great brutes came and questioned me, 
@@ -8553,7 +8553,7 @@ me a little longer, Mr. Frodo. I must go and see what I can find. You stay
 here. Walk about a bit and ease your legs. I shan't be long. I shan't have 
 to go far.' 
 
-'Take care, Sam!' said Frodo. 'And be quick! There may be ores still 
+'Take care, Sam!' said Frodo. 'And be quick! There may be Orcs still 
 alive, lurking in wait.' 
 
 'I've got to chance it,' said Sam. He stepped to the trap-door and 
@@ -8635,12 +8635,12 @@ couple of weeks at a pinch. But if there's a drop left in my bottle, there's
 
 
 
-no more. That's not going to be enough for two, nohow. Don’t ores eat, and 
+no more. That's not going to be enough for two, nohow. Don’t Orcs eat, and 
 don't they drink? Or do they just live on foul air and poison?’ 
 
 'No, they eat and drink, Sam. The Shadow that bred them can only mock, 
 it cannot make: not real new things of its own. I don’t think it gave life 
-to the ores, it only ruined them and twisted them; and if they are to live 
+to the Orcs, it only ruined them and twisted them; and if they are to live 
 at all, they have to live like other living creatures. Foul waters and foul 
 meats they’ll take, if they can get no better, but not poison. They’ve fed 
 me, and so I’m better off than you. There must be food and water somewhere 
@@ -8688,7 +8688,7 @@ them, black silent shapes on either side of the gate through which the glare
 of Mordor dimly showed. As they threaded their way among the hideous 
 bodies 
 
-of the ores each step became more difficult. Before they even reached the 
+of the Orcs each step became more difficult. Before they even reached the 
 archway they were brought to a stand. To move an inch further was a pain and 
 weariness to will and limb. 
 
@@ -8746,11 +8746,11 @@ and exposed them for a dreadful moment to view from the Tower. As they
 flitted across they glanced back and saw the great black shape upon the 
 battlement; then they plunged down between high rock-walls in a cutting that 
 fell steeply to join the Morgul-road. They came to the way-meeting. There 
-was still no sign of ores, nor of an answer to the cry of the Nazgyl; but 
+was still no sign of Orcs, nor of an answer to the cry of the Nazgyl; but 
 they knew that the silence would not last long. At any moment now the hunt 
 would begin. 
 
-'This won't do, Sam,' said Frodo. 'If we were real ores, we ought to be 
+'This won't do, Sam,' said Frodo. 'If we were real Orcs, we ought to be 
 dashing back to the Tower, not running away. The first enemy we meet will 
 know us. We must get off this road somehow.' 
 
@@ -9030,7 +9030,7 @@ writhing, tangled brambles sprawled. Some had long stabbing thorns, some
 hooked barbs that rent like knives. The sullen shrivelled leaves of a past 
 year hung on them, grating and rattling in the sad airs, but their 
 maggot-ridden buds were only just opening. Flies, dun or grey, or black, 
-marked like ores with a red eye-shaped blotch, buzzed and stung; and above 
+marked like Orcs with a red eye-shaped blotch, buzzed and stung; and above 
 the briar -thickets clouds of hungry midges danced and reeled. 
 
 'Ore -gear's no good,' said Sam, waving his arms. 'I wish I'd got an 
@@ -9131,7 +9131,7 @@ shapes were hurrying.
 
 'I don’t like the look of things at all,' said Sam. ’Pretty hopeless, I 
 call it - saving that where there's such a lot of folk there must be wells 
-or water, not to mention food. And these are Men not Ores, or my eyes are 
+or water, not to mention food. And these are Men not Orcs, or my eyes are 
 all wrong.’ 
 
 Neither he nor Frodo knew anything of the great slave- worked fields 
@@ -9161,7 +9161,7 @@ I've still got to do the best I can. At present that is to avoid being
 captured as long as possible. So we must still go northwards, I think, and 
 see what it is like where the open plain is narrower.' 
 
-’I guess what it'll be like,' said Sam. 'Where it's narrower the Ores 
+’I guess what it'll be like,' said Sam. 'Where it's narrower the Orcs 
 and Men will just be packed closer. You'll see, Mr. Frodo.' 
 
 'I dare say I shall, if we ever get so far,' said Frodo and turned 
@@ -9183,7 +9183,7 @@ sides of the old water -course.
 They went two or three miles further, and the ore-hold was hidden from 
 sight behind them; but they had hardly begun to breathe more freely again 
 when harsh and loud they heard ore- voices. Quickly they slunk out of sight 
-behind a brown and stunted bush. The voices drew nearer. Presently two ores 
+behind a brown and stunted bush. The voices drew nearer. Presently two Orcs 
 came into view. One was clad in ragged brown and was armed with a bow of 
 horn; it was of a small breed, black -skinned, with wide and snuffling 
 nostrils: evidently a tracker of some kind. The other was a big 
@@ -9277,7 +9277,7 @@ about in Mordor, half our trouble would be over.'
 'Quietly, Sam,' Frodo whispered. 'There may be others about. We have 
 evidently had a very narrow escape, and the hunt was hotter on our tracks 
 than we guessed. But that is the spirit of Mordor, Sam; and it has spread to 
-every corner of it. Ores have always behaved like that, or so all tales say, 
+every corner of it. Orcs have always behaved like that, or so all tales say, 
 when they are on their own. But you can't get much hope out of it. They hate 
 us far more, altogether and all the time. If those two had seen us, they 
 would have dropped all their quarrel until we were dead.' 
@@ -9441,7 +9441,7 @@ fleeting glimpse of it, peering back over the edge of the eastward
 precipice, before it ducked and disappeared. 
 
 'Well, luck did not let me down,' muttered Sam, 'but that was a near 
-thing! Isn't it enough to have ores by the thousand without that stinking 
+thing! Isn't it enough to have Orcs by the thousand without that stinking 
 villain coming nosing round? I wish he had been shot!' He sat down by Frodo 
 and did not rouse him; but he did not dare to go to sleep himself. At last 
 when he felt his eyes closing and knew that his struggle to keep awake could 
@@ -9458,7 +9458,7 @@ isn't safe for us both to sleep together, and begging your pardon, but I
 can't hold up my lids much longer.' 
 
 'Bless you, Sam!' said Frodo. 'Lie down and take your proper turn! But 
-I'd rather have Gollum than ores. At any rate he won't give us away to them 
+I'd rather have Gollum than Orcs. At any rate he won't give us away to them 
 - not unless he's caught himself.' 
 
 'But he might do a bit of robbery and murder on his own,' growled Sam. 
@@ -9499,7 +9499,7 @@ wall of rock and bowed his head.
 'Seems so,' said Sam. 'Well, we can but wait and see.' And with that he 
 sat down beside Frodo under the shadow of the cliff. 
 
-They did not have to wait long. The ores were going at a great pace. 
+They did not have to wait long. The Orcs were going at a great pace. 
 
 Those in the foremost files bore torches. On they came, red flames in the 
 
@@ -9513,7 +9513,7 @@ their knees to hide their feet.
 'If only they are in a hurry and will let a couple of tired soldiers 
 alone and pass on!' he thought. 
 
-And so it seemed that they would. The leading ores came loping along, 
+And so it seemed that they would. The leading Orcs came loping along, 
 panting, holding their heads down. They were a gang of the smaller breeds 
 being driven unwilling to their Dark Lord's wars; all they cared for was to 
 get the march over and escape the whip. Beside them, running up and down the 
@@ -9540,7 +9540,7 @@ off again at a brisk trot.
 
 It was hard enough for poor Sam, tired as he was; but for Frodo it was 
 a torment, and soon a nightmare. He set his teeth and tried to stop his mind 
-from thinking, and he struggled on. The stench of the sweating ores about 
+from thinking, and he struggled on. The stench of the sweating Orcs about 
 him was stifling, and he began to gasp with thirst. On, on they went, and he 
 bent all his will to draw his breath and to make his legs keep going; and 
 yet to what evil end he toiled and endured he did not dare to think. There 
@@ -9583,7 +9583,7 @@ threw them into confusion.
 
 Dazed as he was with pain and weariness, Sam woke up, grasped quickly 
 at his chance, and threw himself to the ground, dragging Frodo down with 
-him. Ores fell over them, snarling and cursing. Slowly on hand and knee the 
+him. Orcs fell over them, snarling and cursing. Slowly on hand and knee the 
 hobbits crawled away out of the turmoil, until at last unnoticed they 
 dropped over the further edge of the road. It had a high kerb by which 
 troop-leaders could guide themselves in black night or fog, and it was 
@@ -9743,7 +9743,7 @@ oncoming of a wall of night at the last end of the world.
 There came at last a dreadful nightfall; and even as the Captains of 
 the West drew near to the end of the living lands, the two wanderers came to 
 an hour of blank despair. Four days had passed since they had escaped from 
-the ores, but the time lay behind them like an ever -darkening dream. All 
+the Orcs, but the time lay behind them like an ever -darkening dream. All 
 this last day Frodo had not spoken, but had walked half-bowed, often 
 stumbling, as if his eyes no longer saw the way before his feet. Sam guessed 
 that among all their pains he bore the worst, the growing weight of the 
@@ -9777,7 +9777,7 @@ now had very little left, perhaps half his bottle, and maybe there were
 still days to go. All would long ago have been spent, if they had not dared 
 to follow the ore-road. For at long intervals on that highway cisterns had 
 been built for the use of troops sent in haste through the waterless 
-regions. In one Sam had found some water left, stale, muddied by the ores, 
+regions. In one Sam had found some water left, stale, muddied by the Orcs, 
 but still sufficient for their desperate case. Yet that was now a day ago. 
 
 
@@ -10089,7 +10089,7 @@ in the upper cone, but still far from the reeking summit, to a dark entrance
 that gazed back east straight to the Window of the Eye in Sauron’s 
 shadow-mantled fortress. Often blocked or destroyed by the tumults of the 
 Mountain’s furnaces, always that road was repaired and cleaned again by the 
-labours of countless ores. 
+labours of countless Orcs. 
 
 Sam drew a deep breath. There was a path, but how he was to get up the 
 slope to it he did not know. First he must ease his aching back. Fie lay flat 
@@ -12063,7 +12063,7 @@ accursed tree-slayer that dwelt here. For there was a great inrush of those,
 burbrum, those evileyed - blackhanded - bowlegged - flinthearted - 
 clawfingered - foulbellied - bloodthirsty, morimciite - sincahonda, hoom , 
 well, since you are hasty folk and their full name is as long as years of 
-torment, those vermin of ores; and they came over the River and down from 
+torment, those vermin of Orcs; and they came over the River and down from 
 the North and all round the wood of Laurelindurenan, which they could not 
 get into, thanks to the Great ones who are here.’ He bowed to the Lord and 
 Lady of Lurien. 

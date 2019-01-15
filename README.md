@@ -1,8 +1,8 @@
 # hobbit_txt
 
-[hobbit_txt](https://twitter.com/hobbit_txt) is a twitter bot posting daily quotes from The Hobbit and The Lord Of The Rings series.
+[hobbit_txt](https://twitter.com/hobbit_txt) is a twitter bot posting quotes from The Hobbit and The Lord Of The Rings series.
 
-The bot is written in node and uses npm package [twit](https://www.npmjs.com/package/twit) for calls to the twitter api.
+Written in node and uses npm package [twit](https://www.npmjs.com/package/twit) for calls to the twitter api.
 
 Source text is from archive.org
 

@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "generator.js",
-  "scripts": {
-    "test": "mocha ./spec/"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",

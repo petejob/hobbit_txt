@@ -248,7 +248,7 @@ drawn irresistibly towards the older world, and became an account, as it
 were, of its end and passing away before its beginning and middle had been 
 told. The process had begun in the writing of The Hobbit, in which there 
 were already some references to the older matter: Elrond, Gondolin, the 
-High-elves, and the ores, as well as glimpses that had arisen unbidden of 
+High-elves, and the Orcs, as well as glimpses that had arisen unbidden of 
 things higher or deeper or darker than its surface: Durin, Moria, Gandalf, 
 the Necromancer, the Ring. The discovery of the significance of these 
 glimpses and of their relation to the ancient histories revealed the Third 
@@ -623,7 +623,7 @@ obliged to fight to maintain themselves in a hard world; but in Bilbo's time
 that was very ancient history. The last battle, before this story opens, and 
 indeed the only one that had ever been fought within the borders of the 
 Shire, was beyond living memory: the Battle of Greenfields, S.R. 1147, in 
-which Bandobras Took routed an invasion of Ores. Even the weathers had 
+which Bandobras Took routed an invasion of Orcs. Even the weathers had 
 grown 
 
 milder, and the wolves that had once come ravening out of the North in 
@@ -897,7 +897,7 @@ guarded the hoard was destroyed. Yet, though before all was won the Battle
 of Five Armies was fought, and Thorin was slain, and many deeds of renown 
 were done, the matter would scarcely have concerned later history, or earned 
 more than a note in the long annals of the Third Age, but for an 'accident' 
-by the way. The party was assailed by Ores in a high pass of the Misty 
+by the way. The party was assailed by Orcs in a high pass of the Misty 
 Mountains as they went towards Wilderland; and so it happened that Bilbo was 
 lost for a while in the black ore-mines deep under the mountains, and there, 
 as he groped in vain in the dark, he put his hand on a ring, lying on the 
@@ -914,7 +914,7 @@ secret treasure that had come to him long ages ago, when he still lived in
 the light: a ring of gold that made its wearer invisible. It was the one 
 thing he loved, his 'precious', and he talked to it, even when it was not 
 with him. For he kept it hidden safe in a hole on his island, except when he 
-was hunting or spying on the ores of the mines. 
+was hunting or spying on the Orcs of the mines. 
 
 Maybe he would have attacked Bilbo at once, if the ring had been on him 
 when they met; but it was not, and the hobbit held in his hand an Elvish 
@@ -961,7 +961,7 @@ guard the way out, lest the 'thief should escape. Warily Bilbo followed
 him, as he went along, cursing, and talking to himself about his 'precious'; 
 from which talk at last even Bilbo guessed the truth, and hope came to him 
 in the darkness: he himself had found the marvellous ring and a chance of 
-escape from the ores and from Gollum. 
+escape from the Orcs and from Gollum. 
 
 At length they came to a halt before an unseen opening that led to the 
 lower gates of the mines, on the eastward side of the mountains. There 
@@ -2384,7 +2384,7 @@ disquieting. It seemed that the evil power in Mirkwood had been driven out
 by the White Council only to reappear in greater strength in the old 
 strongholds of Mordor. The Dark Tower had been rebuilt, it was said. From 
 there the power was spreading far and wide, and away far east and south 
-there were wars and growing fear. Ores were multiplying again in the 
+there were wars and growing fear. Orcs were multiplying again in the 
 mountains. Trolls were abroad, no longer dull-witted, but cunning and armed 
 with dreadful weapons. And there were murmured hints of creatures more 
 terrible than all these, but they had no name. 
@@ -2855,9 +2855,9 @@ shadow took shape again in Mirkwood.
 
 'But the Ring was lost. It fell into the Great River, Anduin, and 
 vanished. For Isildur was marching north along the east banks of the River, 
-and near the Gladden Fields he was waylaid by the Ores of the Mountains, and 
+and near the Gladden Fields he was waylaid by the Orcs of the Mountains, and 
 almost all his folk were slain. He leaped into the waters, but the Ring 
-slipped from his finger as he swam, and then the Ores saw him and killed him 
+slipped from his finger as he swam, and then the Orcs saw him and killed him 
 with arrows.' 
 
 Gandalf paused. 'And there in the dark pools amid the Gladden Fields,' 
@@ -3115,7 +3115,7 @@ knew where he came from.'
 'Well, as for the name, Bilbo very foolishly told Gollum himself; and 
 after that it would not be difficult to discover his country, once Gollum 
 came out. Oh yes, he came out. His longing for the Ring proved stronger than 
-his fear of the Ores, or even of the light. After a year or two he left the 
+his fear of the Orcs, or even of the light. After a year or two he left the 
 mountains. You see, though still bound by desire of it, the Ring was no 
 longer devouring him; he began to revive a little. He felt old, terribly 
 old, yet less timid, and he was mortally hungry. 
@@ -11762,7 +11762,7 @@ are terrified when they draw near, even the elf-horse of Glorfindel. The
 dogs howl and the geese scream at them.’ 
 
 'Because these horses are born and bred to the service of the Dark Lord 
-in Mordor. Not all his servants and chattels are wraiths! There are ores and 
+in Mordor. Not all his servants and chattels are wraiths! There are Orcs and 
 trolls, there are wargs and werewolves; and there have been and still are 
 many Men, warriors and kings, that walk alive under the Sun, and yet are 
 under his sway. And their number is growing daily.’ 
@@ -12029,7 +12029,7 @@ of her people. Long she had been in the land of her mother's kin, in Lurien
 beyond the mountains, and was but lately returned to Rivendell to her 
 father's house. But her brothers, Elladan and Elrohir, were out upon 
 errantry: for they rode often far afield with the Rangers of the North, 
-forgetting never their mother's torment in the dens of the ores. 
+forgetting never their mother's torment in the dens of the Orcs. 
 
 Such loveliness in living thing Frodo had never seen before nor 
 imagined in his mind; and he was both surprised and abashed to find that he 
@@ -13551,7 +13551,7 @@ the tree's foot. One day he refused to come down, and the guards had no mind
 to climb after him: he had learned the trick of clinging to boughs with his 
 feet as well as with his hands; so they sat by the tree far into the night. 
 
-'It was that very night of summer, yet moonless and starless, that Ores 
+'It was that very night of summer, yet moonless and starless, that Orcs 
 came on us at unawares. We drove them off after some time; they were many 
 and fierce, but they came from over the mountains, and were unused to the 
 woods. When the battle was over, we found that Gollum was gone, and his 
@@ -13563,7 +13563,7 @@ fall have returned in greater numbers, and Mirkwood is again an evil place,
 save where our realm is maintained. 
 
 'We have failed to recapture Gollum. We came on his trail among those 
-of many Ores, and it plunged deep into the Forest, going south. But ere long 
+of many Orcs, and it plunged deep into the Forest, going south. But ere long 
 it escaped our skill, and we dared not continue the hunt; for we were 
 drawing nigh to Dol Guldur, and that is still a very evil place; we do not 
 go that way.’ 
@@ -13816,7 +13816,7 @@ laughed at me, for my words were empty, and he knew it.
 place where Saruman was accustomed to watch the stars. There is no descent 
 save by a narrow stair of many thousand steps, and the valley below seems 
 far away. I looked on it and saw that, whereas it had once been green and 
-fair, it was now filled with pits and forges. Wolves and ores were housed in 
+fair, it was now filled with pits and forges. Wolves and Orcs were housed in 
 Isengard, for Saruman was mustering a great force on his own account, in 
 rivalry of Sauron and not in his service yet. Over all his works a dark 
 smoke hung and wrapped itself about the sides of Orthanc. I stood alone on 
@@ -13866,7 +13866,7 @@ why he should not do as I asked; and he rode away towards Mirkwood where
 he 
 
 had many friends of old. And the Eagles of the Mountains went far and wide, 
-and they saw many things: the gathering of wolves and the mustering of Ores; 
+and they saw many things: the gathering of wolves and the mustering of Orcs; 
 and the Nine Riders going hither and thither in the lands; and they heard 
 news of the escape of Gollum. And they sent a messenger to bring these 
 tidings to me. 
@@ -13875,7 +13875,7 @@ tidings to me.
 Gwaihir the Windlord, swiftest of the Great Eagles, came unlooked-for to 
 Orthanc; and he found me standing on the pinnacle. Then I spoke to him and 
 he bore me away, before Saruman was aware. I was far from Isengard, ere the 
-wolves and ores issued from the gate to pursue me. 
+wolves and Orcs issued from the gate to pursue me. 
 
 ' "How far can you bear me? " I said to Gwaihir. 
 
@@ -15741,9 +15741,9 @@ stronghold of Sauron,' answered Gandalf. 'I alone of you have ever been in
 the dungeons of the Dark Lord, and only in his older and lesser dwelling in 
 Dol Guldur. Those who pass the gates of Barad-dyr do not return. But I would 
 not lead you into Moria if there were no hope of coming out again. If there 
-are Ores there, it may prove ill for us, that is true. But most of the Ores 
+are Orcs there, it may prove ill for us, that is true. But most of the Orcs 
 of the Misty Mountains were scattered or destroyed in the Battle of Five 
-Armies. The Eagles report that Ores are gathering again from afar; but there 
+Armies. The Eagles report that Orcs are gathering again from afar; but there 
 is a hope that Moria is still free. 
 
 'There is even a chance that Dwarves are there, and that in some deep 
@@ -16266,7 +16266,7 @@ wizard's bristling brows.
 if that does not shatter them, and I am allowed a little peace from foolish 
 questions, I will seek for the opening words. 
 
-'I once knew every spell in all the tongues of Elves or Men or Ores 
+'I once knew every spell in all the tongues of Elves or Men or Orcs 
 that was ever used for such a purpose. I can still remember ten score of 
 them without searching in my mind. But only a few trials, I think, will be 
 needed; and I shall not have to call on Gimli for words of the secret 
@@ -16406,7 +16406,7 @@ many of them? '
 
 'I do not know,' answered Gandalf, 'but the arms were all guided by one 
 purpose. Something has crept, or has been driven out of dark waters under 
-the mountains. There are older and fouler things than Ores in the deep 
+the mountains. There are older and fouler things than Orcs in the deep 
 places of the world.' He did not speak aloud his thought that whatever it 
 was that dwelt in the lake, it had seized on Frodo first among all the 
 Company. 
@@ -16463,7 +16463,7 @@ sword Glamdring. Behind him came Gimli, his eyes glinting in the dim light
 as he turned his head from side to side. Behind the dwarf walked Frodo, and 
 he had drawn the short sword, Sting. No gleam came from the blades of Sting 
 or of Glamdring; and that was some comfort, for being the work of Elvish 
-smiths in the Elder Days these swords shone with a cold light, if any Ores 
+smiths in the Elder Days these swords shone with a cold light, if any Orcs 
 were near at hand. Behind Frodo went Sam, and after him Legolas, and the 
 young hobbits, and Boromir. In the dark at the rear, grim and silent, walked 
 Aragorn. 
@@ -16814,7 +16814,7 @@ lamps. Are there piles of jewels and gold lying about here still? '
 
 Gimli was silent. Having sung his song he would say no more. 
 
-'Piles of jewels? ' said Gandalf. 'No. The Ores have often plundered 
+'Piles of jewels? ' said Gandalf. 'No. The Orcs have often plundered 
 Moria; there is nothing left in the upper halls. And since the dwarves fled, 
 no one dares to seek the shafts and treasuries down in the deep places: they 
 are drowned in water— or in a shadow of fear.' 
@@ -16828,12 +16828,12 @@ for them: all things that they desired they could obtain in traffic. For
 here alone in the world was found Moria-silver, or true-silver as some have 
 called it: mithril is the Elvish name. The Dwarves have a name which they do 
 not tell. Its worth was ten times that of gold, and now it is beyond price; 
-for little is left above ground, and even the Ores dare not delve here for 
+for little is left above ground, and even the Orcs dare not delve here for 
 it. The lodes lead away north towards Caradhras, and down to darkness. The 
 Dwarves tell no tale; but even as mithril was the foundation of their 
 wealth, so also it was their destruction: they delved too greedily and too 
 deep, and disturbed that from which they fled, Durin’s Bane. Of what they 
-brought to light the Ores have gathered nearly all, and given it in tribute 
+brought to light the Orcs have gathered nearly all, and given it in tribute 
 to Sauron, who covets it. 
 
 ' Mithril! All folk desired it. It could be beaten like copper, and 
@@ -16981,7 +16981,7 @@ Dale nigh on thirty years ago: the pages seem to have numbers referring to
 the years after their arrival. The top page is marked one — three, so at 
 least two are missing from the beginning. Listen to this! 
 
-'We drove out ores from the great gate and guard — I think; the next 
+'We drove out Orcs from the great gate and guard — I think; the next 
 word is blurred and burned; probably room — we slew many in the bright — I 
 think — sun in the dale. Flui was killed by an arrow. He slew the great. 
 
@@ -17121,7 +17121,7 @@ door and thrust forward his staff: There was a dazzling flash that lit the
 chamber and the passage outside. For an instant the wizard looked out. 
 Arrows whined and whistled down the corridor as he sprang back. 
 
-'There are Ores, very many of them,' he said. 'And some are large and 
+'There are Orcs, very many of them,' he said. 'And some are large and 
 evil: black Uruks of Mordor. For the moment they are hanging back, but there 
 is something else there. A great cave-troll, I think, or more than one. 
 
@@ -17168,10 +17168,10 @@ There was a crash on the door, followed by crash after crash. Rams and
 hammers were beating against it. It cracked and staggered back, and the 
 opening grew suddenly wide. Arrows came whistling in, but struck the 
 northern wall, and fell harmlessly to the floor. There was a horn-blast and 
-a rush of feet, and ores one after another leaped into the chamber. 
+a rush of feet, and Orcs one after another leaped into the chamber. 
 
 How many there were the Company could not count. The affray was sharp, 
-but the ores were dismayed by the fierceness of the defence. Legolas shot 
+but the Orcs were dismayed by the fierceness of the defence. Legolas shot 
 two through the throat. Gimli hewed the legs from under another that had 
 sprung up on Balin' s tomb. Boromir and Aragorn slew many. When thirteen 
 had 
@@ -17281,7 +17281,7 @@ seventh flight Gandalf halted.
 'It is getting hot! ' he gasped. 'We ought to be down at least to the 
 level of the Gates now. Soon I think we should look for a left-hand turn to 
 take us east. I hope it is not far. I am very weary. I must rest here a 
-moment, even if all the ores ever spawned are after us.' 
+moment, even if all the Orcs ever spawned are after us.' 
 
 Gimli took his arm and helped him down to a seat on the step. 'What 
 happened away up there at the door? ’ he asked. 'Did you meet the beater of 
@@ -17301,7 +17301,7 @@ they seemed to be talking in their own hideous language. All I caught was
 
 
 ghvsh; that is "fire". Then something came into the chamber — I felt it 
-through the door, and the ores themselves were afraid and fell silent. It 
+through the door, and the Orcs themselves were afraid and fell silent. It 
 laid hold of the iron ring, and then it perceived me and my spell. 
 
 ’What it was I cannot guess, but I have never felt such a challenge. 
@@ -17417,7 +17417,7 @@ and up the stair beyond the door! '
 Arrows fell among them. One struck Frodo and sprang back. Another 
 pierced Gandalf s hat and stuck there like a black feather. Frodo looked 
 behind. Beyond the fire he saw swarming black figures: there seemed to be 
-hundreds of ores. They brandished spears and scimitars which shone red as 
+hundreds of Orcs. They brandished spears and scimitars which shone red as 
 blood in the firelight. Doom, doom rolled the drum-beats, growing louder and 
 louder, doom, doom. 
 
@@ -17426,7 +17426,7 @@ shot for his small bow. He drew, but his hand fell, and the arrow slipped to
 the ground. He gave a cry of dismay and fear. Two great trolls appeared; 
 they bore great slabs of stone, and flung them down to serve as gangways 
 over the fire. But it was not the trolls that had filled the Elf with 
-terror. The ranks of the ores had opened, and they crowded away, as if they 
+terror. The ranks of the Orcs had opened, and they crowded away, as if they 
 themselves were afraid. Something was coming up behind them. What it was 
 could not be seen: it was like a great shadow, in the middle of which was a 
 dark form, of man-shape maybe, yet greater; and a power and terror seemed to 
@@ -17450,10 +17450,10 @@ leaned heavily on his staff. 'What an evil fortune! And I am already weary.'
 
 
 
-The dark figure streaming with fire raced towards them. The ores yelled 
+The dark figure streaming with fire raced towards them. The Orcs yelled 
 and poured over the stone gangways. Then Boromir raised his horn and blew. 
 Loud the challenge rang and bellowed, like the shout of many throats under 
-the cavernous roof. For a moment the ores quailed and the fiery shadow 
+the cavernous roof. For a moment the Orcs quailed and the fiery shadow 
 halted. Then the echoes died as suddenly as a flame blown out by a dark 
 wind, and the enemy advanced again. 
 
@@ -17470,7 +17470,7 @@ gleamed, cold and white. His enemy halted again, facing him, and the shadow
 about it reached out like two vast wings. It raised the whip, and the thongs 
 whined and cracked. Fire came from its nostrils. But Gandalf stood firm. 
 
-'You cannot pass,' he said. The ores stood still, and a dead silence 
+'You cannot pass,' he said. The Orcs stood still, and a dead silence 
 fell. V I am a servant of the Secret Fire, wielder of the flame of Anor. You 
 cannot pass. The dark fire will not avail you, flame of Udyn. Go back to the 
 Shadow! You cannot pass.' 
@@ -17538,7 +17538,7 @@ high windows in the east. They fled across it. Through its huge broken doors
 they passed, and suddenly before them the Great Gates opened, an arch of 
 blazing light. 
 
-There was a guard of ores crouching in the shadows behind the great 
+There was a guard of Orcs crouching in the shadows behind the great 
 door posts towering on either side, but the gates were shattered and cast 
 down. Aragorn smote to the ground the captain that stood in his path, and 
 the rest fled in terror of his wrath. The Company swept past them and took 
@@ -17634,7 +17634,7 @@ roadside stood a single column broken at the top.
 aside for a moment to look at the wonder of the dale ! ' 
 
 'Be swift then! ' said Aragorn, looking back towards the Gates. 'The 
-Sun sinks early. The Ores will not, maybe, come out till after dusk, but we 
+Sun sinks early. The Orcs will not, maybe, come out till after dusk, but we 
 must be far away before nightfall. The Moon is almost spent, and it will be 
 dark tonight.' 
 
@@ -17710,7 +17710,7 @@ this day and we have such need of haste, that I have forgotten that you were
 hurt; and Sam too. You should have spoken. We have done nothing to ease 
 you, 
 
-as we ought, though all the ores of Moria were after us. Come now! A little 
+as we ought, though all the Orcs of Moria were after us. Come now! A little 
 further on there is a place where we can rest for a little. There I will do 
 what I can for you. Come, Boromir! We will carry them.' 
 
@@ -17806,9 +17806,9 @@ the rear, walking softly and not speaking, listening for any sound upon the
 road behind. At length Gimli broke the silence. 
 
 'Not a sound but the wind,' he said. 'There are no goblins near, or my 
-ears are made of wood. It is to be hoped that the Ores will be content with 
+ears are made of wood. It is to be hoped that the Orcs will be content with 
 driving us from Moria. And maybe that was all their purpose, and they had 
-nothing else to do with us-with the Ring. Though Ores will often pursue foes 
+nothing else to do with us-with the Ring. Though Orcs will often pursue foes 
 for many leagues into the plain, if they have a fallen captain to avenge.’ 
 
 Frodo did not answer. He looked at Sting, and the blade was dull. Yet 
@@ -18086,7 +18086,7 @@ on a perch ! ’
 
 'Then dig a hole in the ground,' said Legolas, 'if that is more after 
 the fashion of your kind. But you must dig swift and deep, if you wish to 
-hide from Ores.’ He sprang lightly up from the ground and caught a branch 
+hide from Orcs.’ He sprang lightly up from the ground and caught a branch 
 that grew from the trunk high above his head. But even as he swung there for 
 a moment, a voice spoke suddenly from the tree-shadows above him. 
 
@@ -18184,7 +18184,7 @@ for him, he shall pass; but he must go blindfold through Lothlurien.
 
 'But now we must debate no longer. Your folk must not remain on the 
 ground. We have been keeping watch on the rivers, ever since we saw a great 
-troop of Ores going north toward Moria, along the skirts of the mountains, 
+troop of Orcs going north toward Moria, along the skirts of the mountains, 
 many days ago. Wolves are howling on the wood's borders. If you have indeed 
 come from Moria, the peril cannot be far behind. Tomorrow early you must go 
 on. 
@@ -18257,7 +18257,7 @@ rope-ladder rolled up.
 There were no more sounds. Even the leaves were silent, and the very 
 falls seemed to be hushed. Frodo sat and shivered in his wraps. He was 
 thankful that they had not been caught on the ground; but he felt that the 
-trees offered little protection, except concealment. Ores were as keen as 
+trees offered little protection, except concealment. Orcs were as keen as 
 hounds on a scent, it was said, but they could also climb. He drew out 
 Sting: it flashed and glittered like a blue flame and then slowly faded 
 again and grew dull. In spite of the fading of his sword the feeling of 
@@ -18288,7 +18288,7 @@ seemed to be wary, and to have some skill in trees, or I might have thought
 that it was one of you hobbits. 
 
 I did not shoot, for I dared not arouse any cries: we cannot risk 
-battle. A strong company of Ores has passed. They crossed the Nimrodel-curse 
+battle. A strong company of Orcs has passed. They crossed the Nimrodel-curse 
 their foul feet in its clean water! -and went on down the old road beside the 
 river. They seemed to pick up some scent, and they searched the ground for a 
 while near the place where you halted. The three of us could not challenge a 
@@ -18296,7 +18296,7 @@ hundred, so we went ahead and spoke with feigned voices, leading them on
 into the wood. 
 
 'Orophin has now gone in haste back to our dwellings to warn our 
-people. None of the Ores will ever return out of Lurien. And there will be 
+people. None of the Orcs will ever return out of Lurien. And there will be 
 many Elves hidden on the northern border before another night falls. But you 
 must take the road south as soon as it is fully light.’ 
 
@@ -18516,7 +18516,7 @@ the sound of many voices all around him.
 
 A marching host of Elves had come up silently: they were hastening 
 toward the northern borders to guard against any attack from Moria; and they 
-brought news, some of which Haldir reported. The marauding ores had been 
+brought news, some of which Haldir reported. The marauding Orcs had been 
 waylaid and almost all destroyed; the remnant had fled westward towards the 
 mountains, and were being pursued. A strange creature also had been seen, 
 running with bent back and with hands near the ground, like a beast and yet 
@@ -20147,7 +20147,7 @@ that runs down from Fangorn to join the Great River. That is the north
 boundary of Rohan; and of old all that lay between Limlight and the White 
 Mountains belonged to the Rohirrim. It is a rich and pleasant land, and its 
 grass has no rival; but in these evil days folk do not dwell by the River or 
-ride often to its shores. Anduin is wide, yet the ores can shoot their 
+ride often to its shores. Anduin is wide, yet the Orcs can shoot their 
 arrows far across the stream; and of late, it is said, they have dared to 
 cross the water and raid the herds and studs of Rohan.’ 
 
@@ -20428,7 +20428,7 @@ to choose, too. The River seems set on taking us right into their arms! '
 They all leaned forward straining at the paddles: even Sam took a hand. 
 Every moment they expected to feel the bite of black -feathered arrows. Many 
 whined overhead or struck the water nearby; but there were no more hits. It 
-was dark, but not too dark for the night-eyes of Ores, and in the 
+was dark, but not too dark for the night-eyes of Orcs, and in the 
 star-glimmer they must have offered their cunning foes some mark, unless it 
 was that the grey cloaks Of Lurien and the grey timber of the elf- wrought 
 boats defeated the malice of the archers of Mordor. 
@@ -20619,10 +20619,10 @@ yet. No road was made by the Men of Gondor in this region, for even in their
 great days their realm did not reach up Anduin beyond the Emyn Muil; but 
 there is a portage-way somewhere on the western shore, if I can find it. It 
 cannot yet have perished; for light boats used to journey out of Wilderland 
-down to Osgiliath, and still did so until a few years ago, when the Ores of 
+down to Osgiliath, and still did so until a few years ago, when the Orcs of 
 Mordor began to multiply.’ 
 
-’Seldom in my life has any boat come out of the North, and the Ores 
+’Seldom in my life has any boat come out of the North, and the Orcs 
 prowl on the east-shore,’ said Boromir. 'If you go forward, peril will grow 
 with every mile, even if you find a path.’ 
 
@@ -20868,7 +20868,7 @@ near, it seems.’
 'I feared as much,' said Aragorn. 'But maybe they are not on this side 
 of the River. The light of Sting is faint, and it may point to no more than 
 spies of Mordor roaming on the slopes of Amon Lhaw. I have never heard 
-before of Ores upon Amon Hen. Yet who knows what may happen in these 
+before of Orcs upon Amon Hen. Yet who knows what may happen in these 
 evil 
 
 days, now that Minas Tirith no longer holds secure the passages of Anduin. 
@@ -20954,7 +20954,7 @@ and turned; but all that he saw to his surprise was Boromir, and his face
 was smiling and kind. 
 
 'I was afraid for you, Frodo,' he said, coming forward. 'If Aragorn is 
-right and Ores are near, then none of us should wander alone, and you least 
+right and Orcs are near, then none of us should wander alone, and you least 
 of all: so much depends on you. And my heart too is heavy. May I stay now 
 and talk for a while, since I have found you? It would comfort me. Where 
 there are so many, all speech becomes a debate without end. But two together 
@@ -21151,7 +21151,7 @@ sea-birds whirling like a white dust in the sun, and beneath them a green
 and silver sea, rippling in endless lines. 
 
 But everywhere he looked he saw the signs of war. The Misty Mountains 
-were crawling like anthills: ores were issuing out of a thousand holes. 
+were crawling like anthills: Orcs were issuing out of a thousand holes. 
 
 Under the boughs of Mirkwood there was deadly strife of Elves and Men and 
 fell beasts. The land of the Beornings was aflame; a cloud was over Moria; 
